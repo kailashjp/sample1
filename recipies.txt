@@ -5,4 +5,6 @@ Menu
 3.Appolo FIsh
 4.Vada Pav
 
-End Of Menu
+5.Ice cream
+6.Sweets
+
